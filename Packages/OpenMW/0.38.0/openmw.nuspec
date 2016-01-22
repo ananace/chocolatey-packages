@@ -11,7 +11,7 @@
     <description>**OpenMW** is a free, open source and modern engine based which reimplements and extends the one that runs the 2002 open-world RPG Morrowind. The engine comes with its own editor , called **OpenMW-CS** which allows the user to edit or create their own original games. Both OpenMW-CS and OpenMW are written from scratch and aren’t made to support any third party programs the original Morrowind engine uses to improve its functionality.
 
 **NOTE:** Playing Morrowind with this engine still requires the Morrowind data files that you own.</description>
-    <packageSourceUrl>https://github.com/ace13/chocolatey-packages/Packages/OpenMW/0.37.0</packageSourceUrl>
+    <packageSourceUrl>https://github.com/ace13/chocolatey-packages/Packages/OpenMW/0.38.0</packageSourceUrl>
     <projectUrl>http://openmw.org</projectUrl>
     <projectSourceUrl>https://github.com/OpenMW/openmw</projectSourceUrl>
     <releaseNotes>https://openmw.org/2016/openmw-0-38-0-released/</releaseNotes>
