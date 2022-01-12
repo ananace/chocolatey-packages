@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>openmw</id>
+    <title>OpenMW</title>
+    <version>0.47.0</version>
+    <authors>OpenMW Team</authors>
+    <owners>Alexander "Ace" Olofsson</owners>
+    <summary>OpenMW - Open source Elder Scrolls III: Morrowind engine reimplementation</summary>
+    <description>**OpenMW** is a free, open source and modern engine based which reimplements and extends the one that runs the 2002 open-world RPG Morrowind. The engine comes with its own editor , called **OpenMW-CS** which allows the user to edit or create their own original games. Both OpenMW-CS and OpenMW are written from scratch and aren’t made to support any third party programs the original Morrowind engine uses to improve its functionality.
+
+**NOTE:** Playing Morrowind with this engine still requires the Morrowind data files from a copy that you own.</description>
+    <packageSourceUrl>https://github.com/ananace/chocolatey-packages/</packageSourceUrl>
+    <projectUrl>http://openmw.org</projectUrl>
+    <projectSourceUrl>https://github.com/OpenMW/openmw</projectSourceUrl>
+    <releaseNotes>https://openmw.org/2021/openmw-0-47-0-released/</releaseNotes>
+    <bugTrackerUrl>https://bugs.openmw.org/</bugTrackerUrl>
+    <tags>openmw admin game rpg</tags>
+    <licenseUrl>https://gitlab.com/OpenMW/openmw/-/raw/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://cdn.rawgit.com/ananace/chocolatey-packages/1adeb04799a706879edc60fcd65dc43dd064674b/Icons/openmw.png</iconUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
