@@ -12,10 +12,10 @@
 
 **NOTE:** Playing Morrowind with this engine still requires the Morrowind data files from a copy that you own.</description>
     <packageSourceUrl>https://github.com/OpenMW/chocolatey-packages/</packageSourceUrl>
-    <projectUrl>http://openmw.org</projectUrl>
-    <projectSourceUrl>https://github.com/OpenMW/openmw</projectSourceUrl>
+    <projectUrl>https://openmw.org</projectUrl>
+    <projectSourceUrl>https://gitlab.com/OpenMW/openmw</projectSourceUrl>
     <releaseNotes>https://openmw.org/2025/openmw-0-50-0-released/</releaseNotes>
-    <bugTrackerUrl>https://bugs.openmw.org/</bugTrackerUrl>
+    <bugTrackerUrl>https://gitlab.com/OpenMW/openmw/issues</bugTrackerUrl>
     <tags>openmw admin game rpg</tags>
     <licenseUrl>https://gitlab.com/OpenMW/openmw/-/raw/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
